@@ -1,4 +1,4 @@
-import { Update } from '@/types'
+import { Update } from '../types'
 
 const updates: Update[] = [
   {

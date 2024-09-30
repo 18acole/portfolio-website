@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { QuickLink } from '@/types'
+import { QuickLink } from '../types'
 
 const links: QuickLink[] = [
   { emoji: '📰', text: 'Monthly Newsletter (My Story)', href: '#' },
